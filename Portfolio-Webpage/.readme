@@ -1,0 +1,2 @@
+config.toml file need to be saved inside the main directory of the project, Making a folder " .config "  from config.toml is used as theme and other configuartion of entire website 
+page
